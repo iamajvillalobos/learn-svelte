@@ -49,7 +49,7 @@
 		profilePhoto:
 			"https://pbs.twimg.com/profile_images/819701663799779328/-D82wy4t_400x400.jpg",
 		coverPhoto:
-			"https://pbs.twimg.com/profile_banners/1654810910/1467017283/1500x500",
+			"https://pbs.twimg.com/profile_banners/3166824524/1430006361/1500x500",
 		name: "Billy Nicart",
 		handler: "@itsmebilly1201",
 		bio: "Software Engineer. Optimist.",
